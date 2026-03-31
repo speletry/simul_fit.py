@@ -132,6 +132,6 @@ Jittering: Applies Gaussian noise to resampled points to "smooth" the discrete g
 
 If you use this software in your research, please cite it as:
 
-Al, Z., & Sarrajoğlu, S. (2026). simul_fit: A Bayesian Isochrone Fitting Tool for Stellar Clusters (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19359158
+Al, Z., & Sarrajoğlu, S. (2026). simul_fit: A Bayesian Isochrone Fitting Tool for Stellar Clusters (v1.0.0). Zenodo. [![DOI](https://zenodo.org/badge/1197720435.svg)](https://doi.org/10.5281/zenodo.19360379)
 
 The development version is available on GitHub at: [https://github.com/speletry/simul_fit]
