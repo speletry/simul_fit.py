@@ -1,0 +1,17 @@
+# --- simul_fit Configuration ---
+# Edit the values below to change the search grid.
+# Do not change the labels before the colon (:).
+
+DM_MIN: 10.0
+DM_MAX: 14.0
+DM_STEP: 0.5
+
+E_MIN: 0.4
+E_MAX: 1.4
+E_STEP: 0.1
+
+AGE_MIN: 6.6
+AGE_MAX: 8.6
+
+Z_MIN: 0.01
+Z_MAX: 0.026
