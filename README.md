@@ -14,7 +14,10 @@ The code is optimized for computational efficiency and statistical robustness, m
 ## Authors
 
 * **Sait Sarrajoğlu** – Independent Researcher
+*   ORCID: https://orcid.org/0009-0009-5906-9313
+
 * **Zahra Al** – Istanbul University, Department of Astronomy and Space Sciences
+*   ORCID: https://orcid.org/0009-0003-5953-1738  
 
 **License:** MIT
 
