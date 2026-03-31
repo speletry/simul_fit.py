@@ -17,7 +17,7 @@ The code is optimized for computational efficiency and statistical robustness, m
 *   ORCID: https://orcid.org/0009-0009-5906-9313
 
 * **Zahra Al** – Istanbul University, Department of Astronomy and Space Sciences
-*   ORCID: https://orcid.org/0009-0003-5953-1738  
+*   ORCID: https://orcid.org/0009-0004-4134-3752  
 
 **License:** MIT
 
