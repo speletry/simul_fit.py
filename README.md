@@ -1,5 +1,7 @@
 # simul_fit: Bayesian Isochrone Fitting for Stellar Clusters
 
+⭐ **[Download Latest Release](https://github.com/speletry/IsochroneProject/releases)** — Get v1.0.0 from the Releases page, NOT from the Code button.
+
 `simul_fit.py` is a high-performance Python tool designed for the simultaneous multi-filter isochrone fitting of stellar clusters. By employing a fully vectorized grid-search combined with Bayesian parameter estimation, the software determines the fundamental astrophysical parameters of a cluster:
 
 - **Age** ($\log t$)
