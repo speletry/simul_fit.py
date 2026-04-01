@@ -11,12 +11,12 @@ The code is optimized for computational efficiency and statistical robustness, m
 
 ---
 
-## Contributors
+## ِAuthors
 
-- **Sait Sarrajoğlu** [https://github.com/speletry] – Independent Researcher
+- **Sait Sarrajoğlu** [https://github.com/speletry] 
 *   ORCID: https://orcid.org/0009-0009-5906-9313
 
-* **Zahra Al** [https://github.com/zahraa1996al] – Istanbul University, Department of Astronomy and Space Sciences
+* **Zahra Al** [https://github.com/zahraa1996al] 
 *   ORCID: https://orcid.org/0009-0004-4134-3752  
 
 **License:** MIT
